@@ -1,87 +1,108 @@
-### Olá, eu sou o Diego! 👋
-
-<p align="left">
-  Desenvolvedor Back-end focado no ecossistema Java (Spring), automação de processos (Python/RPA) e desenvolvimento de sistemas escaláveis.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED8B00,100:5382A1&height=190&section=header&text=Diego%20Fabro&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Back-end%20Java&descSize=18&descAlignY=58" alt="Diego Fabro - Desenvolvedor Back-end Java" />
 </p>
-
----
-
-### 🚀 Stacks & Tecnologias
-
-Aqui estão algumas das tecnologias que utilizo no dia a dia, com base nos meus projetos e experiência:
-
-**Backend:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
-</p>
-
-**Frontend:**
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-</p>
-
-**Bancos de Dados:**
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
-
-**Mensageria:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-</p>
-
-**Cloud & Infraestrutura:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle OCI"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server"/>
-</p>
-
-**DevOps:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
-**Automação (RPA & Scripting):**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" alt="Power Automate"/>
-</p>
-
----
-
-### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
   <a href="https://github.com/fabrodiego">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabrodiego&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&locale=pt-br" alt="Estatísticas do GitHub" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=ED8B00&center=true&vCenter=true&width=620&lines=Java+21+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL;APIs+REST+e+sistemas+escal%C3%A1veis;Deploy+no+meu+pr%C3%B3prio+cluster+k3s;CI%2FCD%2C+observabilidade+e+automa%C3%A7%C3%A3o" alt="Java 21, Spring Boot, PostgreSQL, k3s" />
   </a>
-  <a href="https://github.com/fabrodiego">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabrodiego&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&locale=pt-br" alt="Linguagens Mais Usadas" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fabrodiego/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/fabrodiego?tab=repositories">
+    <img src="https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
   </a>
 </p>
 
 ---
 
-### 📌 Projetos Principais
+### 👨‍💻 Sobre mim
 
-* **[VibeBooks-api](https://github.com/fabrodiego/VibeBooks-api)**: API RESTful (Java/Spring) para uma rede social de livros.
-* **[VibeBooks-frontend](https://github.com/fabrodiego/VibeBooks-frontend)**: Interface (Angular/TypeScript) para consumir a VibeBooks API.
-* **[FormsToNotion](https://github.com/fabrodiego/FormsToNotion)**: Automação em Python/Selenium para integrar Microsoft Forms ao Notion.
+Construo APIs em **Java e Spring Boot** e cuido de todo o caminho até a produção: banco, CI/CD, container, cluster e monitoramento. Meus projetos rodam num **cluster k3s próprio**, publicados via Cloudflare Tunnel.
+
+```java
+public class DiegoFabro {
+
+    String cargo      = "Desenvolvedor Back-end";
+    String foco       = "APIs REST, sistemas escaláveis e automação";
+
+    String[] backend  = {"Java 21", "Spring Boot", "Spring Security", "JPA/Hibernate"};
+    String[] dados    = {"PostgreSQL", "MySQL", "MongoDB", "Kafka", "RabbitMQ"};
+    String[] infra    = {"Docker", "k3s", "Helm", "GitHub Actions (ARC)", "Cloudflare Tunnel", "Prometheus"};
+    String[] extras   = {"Angular", "TypeScript", "Python", "Selenium"};
+
+    String agora      = "Evoluindo o MoneyGuard e a observabilidade da minha VPS";
+}
+```
 
 ---
 
-### 📫 Onde me encontrar
+### 🛠️ Stack
+
+**Back-end e dados**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/fabrodiego/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,kafka,rabbitmq&theme=dark" alt="Java, Spring, PostgreSQL, MySQL, MongoDB, Kafka, RabbitMQ" />
 </p>
+
+**Infra e DevOps**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,githubactions,cloudflare,prometheus,linux,ubuntu,gcp,git&theme=dark" alt="Docker, Kubernetes, Helm, GitHub Actions, Cloudflare, Prometheus, Linux, Ubuntu, GCP, Git" />
+</p>
+
+**Front-end e automação**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,angular,nodejs,python,selenium&theme=dark" alt="TypeScript, Angular, Node.js, Python, Selenium" />
+</p>
+
+---
+
+### 📌 Projetos em destaque
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| 💰 **MoneyGuard**<br>[API](https://github.com/fabrodiego/moneyguard-api) · [Front](https://github.com/fabrodiego/moneyguard-frontend) · [Bot](https://github.com/fabrodiego/moneyguard-discord-bot) | Controle financeiro pessoal com API, painel web e bot no Discord. | Java 21 · Spring Boot · Angular · TypeScript · PostgreSQL |
+| 🤖 **Chatbot RGC**<br>[Repo](https://github.com/fabrodiego/api_academia_rgc_chatbot) · [No ar](https://chatbot-rgc.fabrodiego.com) | Chatbot de atendimento para academia, com classificador TF-IDF próprio e Swagger. | Java 17 · Spring Boot · PostgreSQL |
+| 📈 **VPS Monitor**<br>[API](https://github.com/fabrodiego/vps-monitor-api) · [Front](https://github.com/fabrodiego/vps-monitor-frontend) | Painel de observabilidade da minha VPS, alimentado pelo Prometheus, com login senha + TOTP. | Java 21 · Spring Boot · Angular · Prometheus |
+| 📚 **VibeBooks**<br>[API](https://github.com/fabrodiego/VibeBooks-api) · [Front](https://github.com/fabrodiego/VibeBooks-frontend) | Rede social de livros com API RESTful. | Java · Spring Boot · Angular |
+| 📝 **FormsToNotion**<br>[Repo](https://github.com/fabrodiego/FormsToNotion) | Automação que leva respostas do Microsoft Forms para o Notion. | Python · Selenium |
+
+---
+
+### ☁️ Como meus projetos vão para produção
+
+```mermaid
+flowchart LR
+    A[git push] --> B[GitHub Actions<br/>runner ARC no cluster]
+    B --> C[Build + imagem Docker]
+    C --> D[(GHCR)]
+    D --> E[k3s<br/>chart Helm padrão]
+    E --> F[Traefik]
+    F --> G[Cloudflare Tunnel]
+    G --> H((Internet))
+    E -. métricas .-> P[Prometheus]
+    P -.-> M[VPS Monitor]
+```
+
+---
+
+### 📊 Atividade no GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fabrodiego&theme=tokyonight&hide_border=true&border_radius=10&locale=pt_br" alt="Sequência de contribuições" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabrodiego/fabrodiego/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabrodiego/fabrodiego/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/fabrodiego/fabrodiego/output/github-snake.svg" alt="Cobrinha comendo o gráfico de contribuições" />
+  </picture>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5382A1,100:ED8B00&height=110&section=footer" width="100%" alt="" />
