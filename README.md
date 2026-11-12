@@ -94,7 +94,7 @@ flowchart LR
 ### 📊 Atividade no GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fabrodiego/fabrodiego/output/metrics.svg" alt="Estatísticas do GitHub" />
+  <img src="https://streak-stats.demolab.com?user=fabrodiego&theme=tokyonight&hide_border=true&border_radius=10&locale=pt_br" alt="Sequência de contribuições" />
 </p>
 
 <p align="center">
