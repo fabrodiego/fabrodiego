@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED8B00,100:5382A1&height=190&section=header&text=Diego%20Fabro&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Back-end%20Java&descSize=18&descAlignY=58" alt="Diego Fabro - Desenvolvedor Back-end Java" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:06b6d4&height=190&section=header&text=Diego%20Fabro&fontSize=46&fontColor=e8f1f5&fontAlignY=36&desc=Desenvolvedor%20Back-end%20Java&descSize=18&descAlignY=58" alt="Diego Fabro - Desenvolvedor Back-end Java" />
 </p>
 
 <p align="center">
   <a href="https://github.com/fabrodiego">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=ED8B00&center=true&vCenter=true&width=620&lines=Java+21+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL;APIs+REST+e+sistemas+escal%C3%A1veis;Deploy+no+meu+pr%C3%B3prio+cluster+k3s;CI%2FCD%2C+observabilidade+e+automa%C3%A7%C3%A3o" alt="Java 21, Spring Boot, PostgreSQL, k3s" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&lines=Java+21+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL;APIs+REST+e+sistemas+escal%C3%A1veis;Deploy+no+meu+pr%C3%B3prio+cluster+k3s;CI%2FCD%2C+observabilidade+e+automa%C3%A7%C3%A3o" alt="Java 21, Spring Boot, PostgreSQL, k3s" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fabrodiego/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=03212A" alt="LinkedIn" />
   </a>
   <a href="https://github.com/fabrodiego?tab=repositories">
-    <img src="https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
+    <img src="https://img.shields.io/badge/Reposit%C3%B3rios-0E7490?style=for-the-badge&logo=github&logoColor=E8F1F5" alt="Repositórios" />
   </a>
 </p>
 
@@ -77,6 +77,7 @@ public class DiegoFabro {
 ### ☁️ Como meus projetos vão para produção
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'background': '#07090d', 'primaryColor': '#0d1218', 'primaryTextColor': '#e8f1f5', 'primaryBorderColor': '#22d3ee', 'lineColor': '#22d3ee', 'secondaryColor': '#131a22', 'tertiaryColor': '#131a22'}}}%%
 flowchart LR
     A[git push] --> B[GitHub Actions<br/>runner ARC no cluster]
     B --> C[Build + imagem Docker]
@@ -94,15 +95,11 @@ flowchart LR
 ### 📊 Atividade no GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fabrodiego&theme=tokyonight&hide_border=true&border_radius=10&locale=pt_br" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com?user=fabrodiego&locale=pt_br&border=164E63&border_radius=12&background=0D1218&ring=22D3EE&fire=22D3EE&currStreakNum=E8F1F5&sideNums=E8F1F5&currStreakLabel=22D3EE&sideLabels=A3B3BF&dates=6F8190&stroke=223040" alt="Sequência de contribuições" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabrodiego/fabrodiego/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabrodiego/fabrodiego/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/fabrodiego/fabrodiego/output/github-snake.svg" alt="Cobrinha comendo o gráfico de contribuições" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/fabrodiego/fabrodiego/output/github-snake-dark.svg" alt="Cobrinha comendo o gráfico de contribuições" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5382A1,100:ED8B00&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:0d1117&height=110&section=footer" width="100%" alt="" />
